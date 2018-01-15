@@ -1,4 +1,4 @@
-#uOEC 2018 Programming Challenge
+# uOEC 2018 Programming Challenge
 
 ## Overview
 Todays companies are sitting on mountains of data, and are increasingly looking for cleaver engineers
@@ -72,12 +72,13 @@ The following values are included:
 
 ## Evaluation
 The following is the grid for evaluation, the team with the most points after evaluation wins
-| Criteria                           | Max Points | Description                                                                                                                                                                                                               |
-|:------------------------------------|:------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Criteria                           | Max Points | Description                                                                                                                                                                                                                                        |
+|:-----------------------------------|------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Code Quality                       | 30         |  <ul><li>Readability of the code</li><li>Functionality of the code</li><li>This score is based entirely on judges</li></ul>                                                                                                                        |
-| Additional Data Sources            | 20         |  <ul><li>The use of additional relevant data sources</li><li>no points given for using irrelevant data sources regardless of how correlated (ex. babies born before game day)</li><li>5 points per data source</ul>                            |
+| Additional Data Sources            | 20         |  <ul><li>The use of additional relevant data sources</li><li>no points given for using irrelevant data sources regardless of how correlated (ex. babies born before game day)</li><li>5 points per data source</ul>                                |
 | Prediction Algorithm               | 40         |  <ul><li>The understanding and ability to explain the Prediction Algorithm used  </li><li>The quality of features selected for algorithm  </li><li>Presentation of feature research in the form of graphs and charts to identify key features</ul> |
-| Predicting the games for the night | 10         |  `score = sum(confidence * outcome)` where outcome is +1 for correct geuss and -1 for incorrect geuss                                                                                                                     |
+| Predicting the games for the night | 10         |  `score = sum(confidence * outcome)` where outcome is +1 for correct geuss and -1 for incorrect geuss                                                                                                                                              |
 
 ## Submissions
 In order to create a submission you must fork this repositiory by clicking the `Fork` button on the main page
@@ -85,5 +86,5 @@ As soon as you have forked the repository please submit the link to the competit
 your repository must be public to be graded
 you can then push commits to your forked version.  
 
-# Go Get IT
-![Go Get IT](https://giphy.com/gifs/lebron-james-nba-finals-super-saiyan-3oEdv2qNBprY4gDxMk?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://www.google.ca/)
+# No funny business
+![Dont Cheat](https://i.imgur.com/saGuLQx.gif)
