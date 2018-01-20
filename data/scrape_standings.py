@@ -104,7 +104,7 @@ database.commit()
 database.execute(create_index_query)
 database.commit()
 
-for month  in [10, 12]:
+for month  in [10, 11, 12, 1]:
     for day in range(1, 31):
         try:
             standings(day, month, 2017, database)

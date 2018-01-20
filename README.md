@@ -80,6 +80,8 @@ The following is the grid for evaluation, the team with the most points after ev
 | Prediction Algorithm               | 40         |  <ul><li>The understanding and ability to explain the Prediction Algorithm used  </li><li>The quality of features selected for algorithm  </li><li>Presentation of feature research in the form of graphs and charts to identify key features</ul> |
 | Predicting the games for the night | 10         |  `score = sum(confidence * outcome)` where outcome is +1 for correct geuss and -1 for incorrect geuss                                                                                                                                              |
 
+All teams will conduct a 10 minute presentation of which 5 minutes are a designated question period.
+
 ## Submissions
 In order to create a submission you must fork this repositiory by clicking the `Fork` button on the main page
 As soon as you have forked the repository please submit the link to the competition organizer,
