@@ -104,10 +104,10 @@ database.commit()
 database.execute(create_index_query)
 database.commit()
 
-for month  in [10, 11, 12, 1]:
+for month  in [1, 2, 3, 4, 5]:
     for day in range(1, 31):
         try:
-            standings(day, month, 2017, database)
+            standings(day, month, 2018, database)
         except:
             print 'FAILED DAY ' + str(day) + '-' + str(month) + '-' + str(2017)
 
